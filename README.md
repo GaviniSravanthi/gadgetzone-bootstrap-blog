@@ -25,7 +25,11 @@ A responsive tech blog layout built using **Bootstrap 5**, featuring a modern de
 - Web browser
 
 ---
+## 📸 Preview
 
+![Blog Screenshot](screenshot.png) 
+
+---
 ## 📱 Responsive Design
 
 The layout is fully responsive and works seamlessly on:
